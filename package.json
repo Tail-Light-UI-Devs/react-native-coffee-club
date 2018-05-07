@@ -20,7 +20,13 @@
   },
   "dependencies": {
     "expo": "^25.0.0",
+    "firebase": "^4.12.1",
+    "moment": "^2.22.1",
     "react": "16.2.0",
-    "react-native": "0.52.0"
+    "react-native": "0.52.0",
+    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera",
+    "react-native-htmlview": "^0.12.1",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-svg": "^6.3.1"
   }
 }
